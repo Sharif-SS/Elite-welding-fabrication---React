@@ -79,9 +79,9 @@ export function Footer({ title, description, socials, menus, copyright }) {
 }
 
 Footer.defaultProps = {
-  title: "Material Tailwind",
+  title: "",
   description:
-    "Easy to use React components for Tailwind CSS and Material Design.",
+    "",
   socials: [
     {
       color: "gray",
@@ -125,13 +125,13 @@ Footer.defaultProps = {
   ],
   copyright: (
     <>
-      Copyright © {year} Material Tailwind by{" "}
+      Copyright © {year} {" "}
       <a
-        href="https://www.sharif-sircar.com"
+        href=""
         target="_blank"
         className="text-blue-gray-500 transition-colors hover:text-blue-500"
       >
-        Sharif Sircar
+        
       </a>
       .
     </>
