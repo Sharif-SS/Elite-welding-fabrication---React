@@ -29,12 +29,14 @@ export function Home() {
                 color="white"
                 className="mb-6 font-black"
               >
-                Keep Shifting And Shining!
+                Hot Work, Cool Results.
 
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
-                Professional Detailing Service for all makes and models. With over a decade worth of detailing experience with high end to low end vehicles.
-                Offering a range of services from basic interior/exterior to full exterior paint correction.
+              We specialize in MIG/TIG welding, custom fabrication, and the meticulous repair of aluminum, stainless steel, 
+              and rust-damaged parts.  
+              Our commitment to excellence ensures your project is completed to the highest standards.  
+              Need it done on-site? We'll bring the workshop to you!  Call now for your free quote.
               </Typography>
             </div>
           </div>
@@ -68,7 +70,7 @@ export function Home() {
                 Don't Just Take Our Word For It – See What Our Happy Customers Say
               </Typography>
               <Typography className="mb-8 font-normal text-blue-gray-500">
-                We're passionate about delivering the highest quality car detailing experiences.  But words can only go so far.
+                We're passionate about delivering the highest quality welding results.  But words can only go so far.
                 That's why we invite you to hear directly from the folks we've had the pleasure of serving.
               </Typography>
               
@@ -109,9 +111,8 @@ export function Home() {
       <section className="px-4 pt-20 pb-48">
         <div className="container mx-auto">
           <PageTitle section="Our Team" heading="Here are our heroes">
-            According to the National Oceanic and Atmospheric Administration,
-            Ted, Scambos, NSIDClead scentist, puts the potentially record
-            maximum.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed tortor vel mi 
+          sodales feugiat id non leo. Integer pulvinar lacus quis iaculis consectetur
           </PageTitle>
           <div className="mt-24 grid grid-cols-1 gap-12 gap-x-24 md:grid-cols-2 xl:grid-cols-2">
             {teamData.map(({ img, name, position, socials }) => (
@@ -137,9 +138,8 @@ export function Home() {
       <section className="relative bg-white py-24 px-4">
         <div className="container mx-auto">
           <PageTitle section="Co-Working" heading="Build something">
-            Put the potentially record low maximum sea ice extent tihs year down
-            to low ice. According to the National Oceanic and Atmospheric
-            Administration, Ted, Scambos.
+          unc iaculis suscipit enim sed feugiat. Integer tincidunt felis quam, vel mattis est dignissim vitae. 
+          Duis porta quis ligula at ultrices. Fusce laoreet lorem sit amet mi faucibus congue.
           </PageTitle>
           <div className="mx-auto mt-20 mb-48 grid max-w-5xl grid-cols-1 gap-16 md:grid-cols-2 lg:grid-cols-3">
             {contactData.map(({ title, icon, description }) => (

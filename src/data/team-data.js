@@ -1,8 +1,8 @@
 export const teamData = [
   {
     img: "/img/team-1.jpg",
-    name: "Ryan Tompson",
-    position: "Web Developer",
+    name: "Blake Follet",
+    position: "Welders and Metal Fabricator",
     socials: [
       {
         color: "light-blue",
@@ -12,10 +12,7 @@ export const teamData = [
         color: "blue",
         name: "linkedin",
       },
-      {
-        color: "pink",
-        name: "dribbble",
-      },
+
     ],
   },
   {
@@ -23,18 +20,12 @@ export const teamData = [
     name: "Pet X",
     position: "Supervisor",
     socials: [
-      {
-        color: "light-blue",
-        name: "twitter",
-      },
-      {
-        color: "blue",
-        name: "linkedin",
-      },
-      {
-        color: "pink",
-        name: "dribbble",
-      },
+
+      // {
+      //   color: "blue",
+      //   name: "linkedin",
+      // },
+
     ],
   },
   // {
