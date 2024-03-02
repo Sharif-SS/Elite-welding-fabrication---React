@@ -73,7 +73,7 @@ export function Home() {
               </Typography>
               
               <a
-                href="https://www.facebook.com/oakleysdetails/reviews"
+                href="https://www.facebook.com/profile.php?id=61556028688734&sk=reviews"
                 target="_blank"
               >
                 <Button variant="filled">Read Reviews</Button>

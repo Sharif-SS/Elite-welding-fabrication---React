@@ -121,10 +121,10 @@ export function Navbar({ brandName, routes, action }) {
 }
 
 Navbar.defaultProps = {
-  brandName: "Oakley’s Details",
+  brandName: "Elite Welding",
   action: (
     <a
-      href="https://www.facebook.com/oakleysdetails"
+      href="https://www.facebook.com/profile.php?id=61556028688734"
       target="_blank"
     >
       <Button variant="gradient" size="sm" fullWidth>
