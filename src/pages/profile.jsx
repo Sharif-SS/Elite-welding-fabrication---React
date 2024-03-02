@@ -96,7 +96,7 @@ export function Profile() {
               <div className="flex items-center gap-2">
                 <BriefcaseIcon className="-mt-px h-4 w-4 text-blue-gray-500" />
                 <Typography className="font-medium text-blue-gray-500">
-                  Solution Manager - Creative Tim Officer
+                  Solution Manager - Lorem Ipsum Officer
                 </Typography>
               </div>
               <div className="flex items-center gap-2">

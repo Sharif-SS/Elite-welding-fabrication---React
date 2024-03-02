@@ -15,8 +15,8 @@
 
 ### Original Release
 
-- Started project from [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=changelog-mtkr)
-- Updated all dependencies from [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=changelog-mtkr) and those dependencies that were not working with the new React v17+ API, were deleted and/or replaced
+- Started project from [Material Tailwind Kit React]
+- Updated all dependencies from [Material Tailwind Kit React]and those dependencies that were not working with the new React v17+ API, were deleted and/or replaced
 
 ### Warning
 
